@@ -1,0 +1,18 @@
+.week {
+    background-color: rgb(241, 234, 234);
+    height: 2rem;
+    width: 2rem;
+}
+.days {
+
+    border-radius: 4px;
+    background-color: rgb(255, 255, 255)55, 255);
+}
+.today{
+    background-color: rgb(39, 3, 243);
+    
+}
+
+.selected {
+    background-color: crimson;
+}
